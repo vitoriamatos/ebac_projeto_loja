@@ -117,8 +117,7 @@ img.store-facade {
 
 /*product*/
 img.store-front {
-    max-width: 290px;
-    max-height: 420px;
+    width: 100%;
     overflow: hidden;
 }
 
